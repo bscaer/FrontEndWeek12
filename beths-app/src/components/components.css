@@ -1,0 +1,40 @@
+div {
+    margin: 10px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+a {
+    margin: 10px; 
+    text-decoration: none;
+    font-size: large;
+    color: darkslategray;
+}
+
+label {
+    margin: 10px;
+    width: 25%;
+}
+
+input {
+    margin: 5px;
+    width: 75%;
+}
+
+button {
+    width: 50%;
+    margin: 10px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+form {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 3;
+    border-color: darkslategray;
+    margin: 10px;
+    width: 500px;
+}
